@@ -1,7 +1,7 @@
 --Island Royale
 --Beware this code down below is old and un-optimized.
 
-local library = loadstring(game:HttpGet("https://pastebin.com/ARrp39Df"))()
+local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/DoomzWareOnTop/DoomzWareOnTop/main/DoomWareLol.lua"))()
 local Main = library.new("Doomz Ware V2 | Doomz1060", 5013109572)
 print("Loading")
 -- themes
