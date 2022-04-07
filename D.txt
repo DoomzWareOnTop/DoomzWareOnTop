@@ -144,7 +144,7 @@ function DarkLib:Window()
 
 	MainFrame.Name = "MainFrame"
 	MainFrame.Parent = DarkHubLib
-	MainFrame.BackgroundColor3 = Color3.fromRGB(29, 29, 29)
+	MainFrame.BackgroundColor3 = Color3.fromRGB (216,191,216)
 	MainFrame.Position = UDim2.new(0.330445558, 0, 0.330043852, 0)
 	MainFrame.Size = UDim2.new(0, 547, 0, 341)
 
@@ -168,7 +168,7 @@ function DarkLib:Window()
 
 	TabHolderFrame.Name = "TabHolderFrame"
 	TabHolderFrame.Parent = MainFrame
-	TabHolderFrame.BackgroundColor3 = Color3.fromRGB(33, 33, 33)
+	TabHolderFrame.BackgroundColor3 = Color3.fromRGB(255, 192, 203)
 	TabHolderFrame.Position = UDim2.new(0.0251439176, 0, 0.174975574, 0)
 	TabHolderFrame.Size = UDim2.new(0, 519, 0, 31)
 
