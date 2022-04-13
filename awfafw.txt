@@ -762,7 +762,7 @@ Color = Parvus.Utilities.Config:TableToColor(Parvus.Config.UI.Color),Position = 
             end})
         end
         local CreditsSection = SettingsTab:Section({Name = "Credits",Side = "Right"}) do
-            CreditsSection:Label({Text = "This script was made by AlexR32#0157"})
+            CreditsSection:Label({Text = "This script was made by Doomz lol"})
             CreditsSection:Divider()
             CreditsSection:Label({Text = "Thanks to Jan for this awesome background patterns."})
             CreditsSection:Label({Text = "Thanks to Infinite Yield Team for server hop."})
